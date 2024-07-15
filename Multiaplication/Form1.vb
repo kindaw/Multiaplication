@@ -1,11 +1,12 @@
 ﻿Public Class Form1
     Dim setter, multi, resalt As Integer
+    Dim msmulti As String
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        For i As Integer = 1 To 12
+        For multi = 1 To 12
             setter = 15
-            multi = i + 5
             resalt = setter * multi
-            MessageBox.Show(setter & "X" & multi & "=" & resalt)
+            msmulti &= (setter & "X" & multi & "=" & resalt & vbNewLine)
         Next
+        MessageBox.Show(msmulti)
     End Sub
 End Class
