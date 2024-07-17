@@ -1,0 +1,12 @@
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\obj\Debug\Multiaplication.vbproj.AssemblyReference.cache
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\obj\Debug\Multiaplication.Form1.resources
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\obj\Debug\Multiaplication.Resources.resources
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\obj\Debug\Multiaplication.vbproj.GenerateResource.cache
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\obj\Debug\Multiaplication.vbproj.CoreCompileInputs.cache
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\bin\Debug\Multiaplication.exe.config
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\bin\Debug\Multiaplication.exe
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\bin\Debug\Multiaplication.pdb
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\bin\Debug\Multiaplication.xml
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\obj\Debug\Multiaplication.exe
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\obj\Debug\Multiaplication.xml
+D:\work\Code\p3\vsbasic\Multiaplication\Multiaplication\obj\Debug\Multiaplication.pdb
